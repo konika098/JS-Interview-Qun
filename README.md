@@ -25,4 +25,4 @@
 ## 9 . Explain the concept of hoisting in JavaScript.
 **Ans:** Hoisting is a JavaScript behavior where variable and function declarations are moved to the top of their containing scope during compilation. However, only the declarations are hoisted, not the initializations.
 ## 10 . What is the purpose of the bind method in JavaScript?
-**Ans"** The bind method is used to create a new function with a specified value and, optionally, initial arguments. It is often used to bind a function to a specific context, ensuring that this inside the function refers to the desired object.
+**Ans:** The bind method is used to create a new function with a specified value and, optionally, initial arguments. It is often used to bind a function to a specific context, ensuring that this inside the function refers to the desired object.
